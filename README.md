@@ -4,7 +4,6 @@ Face Detection in Mobile App using Python, Flask, NGROK, and Flutter
 
 ## Getting Started
 
-Getting Started
 Download this Flutter Project
 
 Navigate to face_reco_python directory and run
